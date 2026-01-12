@@ -1,10 +1,12 @@
+#JAVA_MySQL_Connectivity for BCA Second Years, Bharata Mata College (Autonomous), Thrikkakara
 This repository Java_MySQL_Connectivity contains instructions for testing Java MySQL Connectivity using JDBC.
 Files to run (in src):
 Main.java : Program for testing Java MySQL Connectivity using JDBC
 NewMain.java : Program to create a table in user specified MySQL Database and insert two rows.
 
+**MAKE SURE YOU HAVE MySQL INSTALLED IN YOU SYSTEM!**
 
-INSTRUCTIONS TO SETUP IntelliJ, JDBC with MySQL as backend.
+## INSTRUCTIONS TO SETUP IntelliJ, JDBC with MySQL as backend.
 Step 1: Download IntelliJ IDE by Jet Brains
 https://www.jetbrains.com/idea/download/?section=windows
 Choose .exe (Windows) and click Download
@@ -37,4 +39,9 @@ You are now connected to MySQL.
 IntelliJ is communicating with MySQL.
 Congrats! You now have a working Java with MySQL Backend.
 
-MAKE SURE YOU HAVE MySQL INSTALLED IN YOU SYSTEM!
+
+
+
+## INSERT
+The program NewMain.java in src folder contains code for creating a table in user specified MySQL database and insert two entries.
+**NOTE: You must only run this program once as running it the second time causes errors, since the data is duplicated**
