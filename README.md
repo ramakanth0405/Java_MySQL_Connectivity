@@ -1,4 +1,4 @@
-#JAVA_MySQL_Connectivity for BCA Second Years, Bharata Mata College (Autonomous), Thrikkakara
+# ** JAVA_MySQL_Connectivity for BCA Second Years, Bharata Mata College (Autonomous), Thrikkakara **
 This repository Java_MySQL_Connectivity contains instructions for testing Java MySQL Connectivity using JDBC.
 Files to run (in src):
 Main.java : Program for testing Java MySQL Connectivity using JDBC
