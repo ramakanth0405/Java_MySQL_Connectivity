@@ -39,7 +39,7 @@ Extract the zip file.
 Open the folder JAVA_MySQL with IntelliJ IDE.
 
 Hit Ctrl+Alt+Shift+S. In the Dialog Box, on the left side click on Modules, then on the + Symbol.
-Select option 1 JAR or Directories.
+Select option 1, JAR or Directories.
 Navigate to the file, the JDBC file mysql-connector-j-9.5.0
 Select the file mysql-connector-j-9.5.0.jar.
 
@@ -66,3 +66,5 @@ You can also verify the table created in MySQL Client.
 <img width="493" height="194" alt="image" src="https://github.com/user-attachments/assets/d78efe6f-fa35-49e2-8da1-a161fb3d2e49" />
 
 **NOTE: You must only run this program once as running it the second time causes errors, since the data will be duplicated.**
+
+The code is generated with the help of Google Gemini.
