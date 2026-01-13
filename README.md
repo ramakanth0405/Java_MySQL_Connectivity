@@ -38,7 +38,7 @@ Download this repository Java_MySQL_Connectivity.
 Extract the zip file.
 Open the folder JAVA_MySQL with IntelliJ IDE.
 
-Hit Ctrl+Alt+Shift+S. In the Dialog Box, on the left side click on Modules, then on the + Symbol.
+Hit Ctrl+Alt+Shift+S. In the Dialog Box, on the left side click on Modules, then click on Dependencies, on the + Symbol.
 Select option 1, JAR or Directories.
 Navigate to the file, the JDBC file mysql-connector-j-9.5.0
 Select the file mysql-connector-j-9.5.0.jar.
